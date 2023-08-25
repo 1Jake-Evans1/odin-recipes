@@ -1,0 +1,19 @@
+.title,
+.recipelink
+{
+    text-align: center;
+    align-items: center;
+}
+
+.title{
+    text-decoration: underline;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 400px;
+    width: auto;
+}
