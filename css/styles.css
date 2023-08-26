@@ -1,3 +1,7 @@
+html {
+    background-color: bisque;
+}
+
 .title,
 .recipelink
 {
@@ -7,6 +11,15 @@
 
 .title{
     text-decoration: underline;
+}
+
+.recipelink{
+    padding: 50px;
+    background-color: lightgoldenrodyellow;
+    border: 0px;
+    border: red solid;
+    margin: -5px auto;
+    width: 100px;
 }
 
 .image{
